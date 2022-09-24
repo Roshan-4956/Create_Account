@@ -1,0 +1,157 @@
+.first {
+    margin-top: 35px;
+    width: 91px;
+    /* font-family: 'Montserrat'; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0.1px;
+    color: #0D0D0D;
+    margin-bottom: 0;
+}
+
+.inputFirst {
+    margin-top: 14px;
+    height: 52px;
+    width: 100%;
+    background: #FFFFFF;
+    border: 1px solid #B8B8B8;
+    border-radius: 10px;
+    padding: 16px 0px 16px calc((25/360)*100%);
+}
+
+.inputFirst::placeholder {
+    width: 138px;
+    height: 20px;
+    /* font-family: 'Montserrat'; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #99989A;
+}
+
+.last {
+    margin-top: 18px;
+    width: 89px;
+    /* font-family: 'Montserrat'; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0.1px;
+    color: #0D0D0D;
+    margin-bottom: 0;
+}
+
+.inputLast {
+    margin-top: 14px;
+    width: 100%;
+    height: 52px;
+    background: #FFFFFF;
+    border: 1px solid #B8B8B8;
+    border-radius: 10px;
+    padding: 16px 0px 16px calc((25/360)*100%);
+}
+
+.inputLast::placeholder {
+    width: 138px;
+    height: 20px;
+    /* font-family: 'Montserrat'; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #99989A;
+}
+
+
+.email {
+    margin-top: 18px;
+    width: 47px;
+    /* font-family: 'Montserrat'; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0.1px;
+    color: #0D0D0D;
+    margin-bottom: 0;
+}
+
+.inputEmail {
+    margin-top: 14px;
+    width: 100%;
+    height: 52px;
+    background: #FFFFFF;
+    border: 1px solid #B8B8B8;
+    border-radius: 10px;
+    padding: 16px 0px 16px calc((25/360)*100%);
+}
+
+.inputEmail::placeholder {
+    width: 138px;
+    height: 20px;
+    /* font-family: 'Montserrat'; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #99989A;
+}
+
+
+.password {
+    margin-top: 18px;
+    width: 80px;
+    /* font-family: 'Montserrat'; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0.1px;
+    color: #0D0D0D;
+    margin-bottom: 0;
+}
+
+.inputPassword {
+    width: 100%;
+    height: 52px;
+    background: #FFFFFF;
+    border: 1px solid #B8B8B8;
+    padding: 16px 0px 16px calc((25/360)*100%);
+    border-radius: 10px;
+}
+
+.inputPassword::placeholder {
+    width: 138px;
+    height: 20px;
+    /* font-family: 'Montserrat'; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #99989A;
+    
+}
+
+.eye{
+    margin-top: 14px;
+    width: 100%;
+    height: 52px;
+    position: relative;
+}
+
+.question {
+    margin-top: 18px;
+    width: calc((278/360)*100%);
+    /* font-family: 'Montserrat'; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 31px;
+    letter-spacing: 0.15px;
+    color: #0D0D0D;
+    margin-bottom: 0;
+}

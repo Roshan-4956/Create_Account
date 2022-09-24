@@ -1,0 +1,13 @@
+.eyeButton {
+    position: absolute;
+    top: 12.5px;
+    right: calc((21/360)*100%);
+    background-color: #FFFFFF;
+    border: none;
+}
+
+.eyeButton img {
+    height: 17.5px;
+    width: 25.7px;
+    border-radius: 0px;
+}

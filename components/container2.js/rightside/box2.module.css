@@ -1,0 +1,39 @@
+.box2{
+    /* flex: 355; */
+    /* border: 1px solid black; */
+    margin-top: 148px;
+}
+
+.box2_sub1{
+    display: flex;
+}
+
+.box2_sub2{
+    margin-left: 74px;
+}
+.sub3{
+    display: flex;
+}
+
+.sub2{
+    display: flex;
+    flex-direction: column;
+}
+.overlap{
+    position: relative;
+}
+.img11{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.img4{
+    margin-top: 123px;
+    margin-bottom: 5px;
+}
+
+@media screen and (max-width :1400px){
+    .box2{
+        display: none;
+    }
+}

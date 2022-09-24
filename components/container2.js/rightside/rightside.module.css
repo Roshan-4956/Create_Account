@@ -1,0 +1,15 @@
+.rightsideWrap{
+    width: fit-content;
+    margin-left: auto;
+}
+.rightside{
+    padding-top: 47px;
+    display: flex;
+}
+
+@media screen and (max-width :1400px){
+    .rightside{
+        width: 80%;
+        margin-left: auto;
+    }
+}
