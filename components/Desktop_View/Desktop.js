@@ -2,10 +2,10 @@ import RightSide from './rightside/RightSide';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import classes from "./homepage.module.css";
+import classes from "./desktop.module.css";
 import {useState,useEffect} from "react"
-import Home from './mobile/Home';
-export default function Homepage() {
+import Home from './leftside/Container/Home';
+export default function Desktop() {
         const [winWidth,setWinWidth]=useState(true);
     useEffect(()=>{
         if(window.innerWidth <=1400){
